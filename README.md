@@ -46,7 +46,7 @@ This is an App for phone catalogue to display phones with their prices
 
 <!-- LIVE DEMO -->
 
-- Live Demo link ()
+- Live Demo link (https://theo-phone-catalogue.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
